@@ -14,6 +14,7 @@ fix  3 all  addacforce  ${xi2} ${densi} ${sounde}  ${kts} ${kx} ${ky} 0.0  ${eta
 ```
 * $$ xi^2 $$ Acoustic force strength 
 * $$ densi $$ particles density 
+* $$ sounde $$ Sound Speed
 * kx ky kz wavevector components with modulus kt
 * $$ eta $$ solvent viscosity
 * $$ beta $$ viscosity ratio
